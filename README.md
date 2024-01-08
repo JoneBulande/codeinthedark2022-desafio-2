@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img alt="Maputo frontenders - code in the dark 1" src="./Desafio-2/assets/page.jpg" width="100%">
+  <img alt="Maputo frontenders - code in the dark 1" src="https://raw.githubusercontent.com/JoneBulande/codeinthedark2022-desafio-2/main/imgs/page.jpg" width="100%">
 </p>
 
 ## 💻 Projeto
